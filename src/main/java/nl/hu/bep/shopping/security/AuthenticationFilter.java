@@ -4,7 +4,7 @@ import io.jsonwebtoken.JwtException;
 import io.jsonwebtoken.JwtParser;
 import io.jsonwebtoken.Jwts;
 import nl.hu.bep.shopping.model.MyUser;
-import nl.hu.bep.shopping.model.webservices.AuthenticationResource;
+import nl.hu.bep.shopping.webservices.AuthenticationResource;
 
 import javax.annotation.Priority;
 import javax.ws.rs.Priorities;
